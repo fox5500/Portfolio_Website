@@ -487,8 +487,8 @@ mark,
 }
 
 .img-fluid {
-  max-width: 250px;
-  height: 250px;
+  max-width: 100%;
+  height: auto;
 }
 
 .img-thumbnail {
@@ -11431,8 +11431,8 @@ pre .code {
   -weblit-transition: .5s !important;
   z-index: 2;
   box-shadow: 0 5px 1px rgba(128, 128, 128, 0.13);
-  width: 170px;
-  border-radius: 50%;
+  width: 130px;
+  border-radius: 20%;
 }
 
 .navbar .brand .brand-txt {
